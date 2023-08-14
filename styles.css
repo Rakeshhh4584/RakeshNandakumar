@@ -692,3 +692,43 @@ label {
     /* Adjusted padding for better spacing on mobile */
   }
 }
+
+#price-table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 20px;
+}
+
+#price-table th,
+#price-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+#price-table tr {
+  transition: all 0.3s;
+}
+
+#price-table th {
+  background-color: #4c1c0091;
+  color: white;
+}
+
+#price-table tr:hover {
+  background-color: #ffbf506c;
+}
+
+#infant-note {
+  margin-top: 10px;
+}
+
+.pt {
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 20px;
+  border-radius: 15px;
+}
+
+#infant-note {
+  font-weight: bold;
+}
