@@ -207,8 +207,8 @@ td {
 }
 
 .summaryttt th {
-  background-color: #ccc;
-  color: black;
+  background-color: #4c1c00ba;
+  color: white;
 }
 
 header {
@@ -701,7 +701,7 @@ label {
 
 #price-table th,
 #price-table td {
-  border: 1px solid #ddd;
+  border: 1px solid black;
   padding: 8px;
   text-align: center;
 }
